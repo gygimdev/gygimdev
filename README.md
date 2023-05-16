@@ -7,4 +7,4 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gygimdev&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
-
+[![Top Langs](https://github-readme-stats-eta-lilac-56.vercel.app/api/top-langs/?username=gygimdev&hide=html,ruby,css&layout=compact?&langs_count=8)](https://github.com/gygimdev/github-readme-stats)
