@@ -8,8 +8,8 @@
 
 
 <p align="center">
-  <a herf="https://gygimdev.github.io/docs/spring" target="blank">
-    <img src="https://img.shields.io/badge/블로그-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">  
+  <a href="https://gygimdev.github.io/docs/spring" target="_blank">
+  <img src="https://img.shields.io/badge/블로그-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">
   </a>
 </p>
 
