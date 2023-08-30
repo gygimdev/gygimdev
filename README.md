@@ -42,4 +42,4 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=gygimdev&count_private=true&show_icons=true&theme=gruvbox">
        &emsp;
-<img src="https://github-readme-stats-d2fgj8l8y-gygimdev.vercel.app/api/top-langs/?username=gygimdev&hide=html,ruby,css&layout=Donut-Chart&langs_count=8&theme=dark">
+<img src="https://github-readme-stats-d2fgj8l8y-gygimdev.vercel.app/api/top-langs/?username=gygimdev&hide=html,ruby,css&layout=Donut&langs_count=8&theme=dark">
